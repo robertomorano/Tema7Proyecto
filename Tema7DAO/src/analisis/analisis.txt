@@ -1,9 +1,0 @@
-Class Profesor()
-
-	private int id
-	private String nombre;
-	private String apellido;
-	private String especialidad;
-	private String email;
-	
-	public Profesor(String nombre, String apellido, String especialidad)
